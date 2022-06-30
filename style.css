@@ -1,0 +1,51 @@
+.navigation{
+    overflow: hidden;
+    background-color: bisque;
+    height: 12vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position:fixed;
+    top: 0;
+    width: 100%;
+    
+
+}
+.left{
+    margin: 25px;
+    font-size: 25px;
+    font-weight: 500;
+}
+.right{
+    margin: 20px;
+    font-size: 20px;
+    padding: 25px;
+}
+.button{
+    background-color: azure;
+    font-size: 15px;
+    border-radius: 4px;
+    color: brown;
+}
+.numbers{
+    display: grid;
+    
+    margin: 20px;
+    padding: 25px;
+   
+}
+
+.content{
+    background-color: antiquewhite;
+ 
+}
+.details{
+    background-color: bisque;
+    height:6vh;
+}
+.copyright{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 6px;
+}
