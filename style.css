@@ -37,7 +37,13 @@
 
 .content{
     background-color: antiquewhite;
- 
+    height:20vh;
+}
+.privacy{
+    display: grid;
+    
+   
+
 }
 .details{
     background-color: bisque;
