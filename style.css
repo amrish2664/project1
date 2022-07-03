@@ -34,9 +34,12 @@
     padding: 25px;
    
 }
-
 .content{
     background-color: antiquewhite;
+ 
+}
+.details{
+    background-color: bisque;
     height:20vh;
 }
 .privacy{
@@ -45,13 +48,10 @@
    
 
 }
-.details{
-    background-color: bisque;
-    height:6vh;
-}
 .copyright{
-    display: flex;
+    display: grid;
     justify-content: center;
     position: relative;
-    top: 6px;
+   top: 6px;
 }
+
